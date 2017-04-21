@@ -28,6 +28,7 @@
 
 #include <linux/kernel.h>
 #include <linux/kthread.h>
+#include <linux/sched/signal.h>
 #include <linux/netdevice.h>
 #include <linux/ieee80211.h>
 #include <net/cfg80211.h>
